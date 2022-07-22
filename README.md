@@ -7,7 +7,7 @@ offered that will be used to achieve the required results. The user interface de
 simple window with a 3D view of city.
 
 
-<a href="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png">
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png">
 Various OpenGL functions are used to create the objects like apartments, trees and road.
 The stages of implementation include:
 
