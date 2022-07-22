@@ -1,10 +1,10 @@
 # 3D-city-view
 
-It’s a Scenario base 3D project using OpenGL. A City scenario with apartments, buildings, road, trees. 
-Additionally, the background light will change from day mode to night mode.
-The software used in this project is CodeBlocks and C programming language with libraries 
-offered that will be used to achieve the required results. The user interface design will be
-simple window with a 3D view of city.
+<li>
+<ul>It’s a Scenario based 3D project using OpenGL.
+<ul>This project 3D City view contains buildings, roads and trees. 
+<ul>Additionally, the background light will change from day mode to night mode when any key is pressed.
+<ul>The software used in this project is CodeBlocks and C programming language.
 
 Sample output:
 <br>
