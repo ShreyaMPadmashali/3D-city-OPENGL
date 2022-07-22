@@ -1,4 +1,4 @@
-# 3D-city-view
+# 3D-city-view-using-OPENGL
 
 <li>It’s a Scenario based 3D project using OpenGL.</li>
 <li>This project 3D City view contains buildings, roads and trees.</li>
@@ -8,4 +8,3 @@ Sample output:
 <br>
 <img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png" width="300" height="300">
 <img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s6.png" width="300" height="300">
-
