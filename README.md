@@ -2,9 +2,9 @@
 
 <li>
   <ul>It’s a Scenario based 3D project using OpenGL.</ul>
-  <ul>This project 3D City view contains buildings, roads and trees. </ul>
-  <ul>Additionally, the background light will change from day mode to night mode when any key is pressed.</ul>
-  <ul>The software used in this project is CodeBlocks and C programming language.</ul>
+</li><li><ul>This project 3D City view contains buildings, roads and trees. </ul>
+</li><li>  <ul>Additionally, the background light will change from day mode to night mode when any key is pressed.</ul>
+</li><li>  <ul>The software used in this project is CodeBlocks and C programming language.</ul>
 </li>
 <br>
 Sample output:
