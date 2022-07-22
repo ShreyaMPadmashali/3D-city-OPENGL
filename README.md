@@ -6,8 +6,13 @@ The software used in this project is CodeBlocks and C programming language with 
 offered that will be used to achieve the required results. The user interface design will be
 simple window with a 3D view of city.
 
+Sample output:
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png" width="500" height="500">
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s3.png" style="width=500px; length=500px;">
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s4.png" style="width=500px; length=500px;">
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s5.png" style="width=500px; length=500px;">
+<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s6.png" style="width=500px; length=500px;">
 
-<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png" style="width=500px; length=500px;">
 Various OpenGL functions are used to create the objects like apartments, trees and road.
 The stages of implementation include:
 
