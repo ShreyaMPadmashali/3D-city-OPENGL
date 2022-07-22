@@ -7,8 +7,8 @@
 Sample output:
 <br>
 <img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s2.png" width="300" height="300">
-<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s3.png" width="300" height="300">
-<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s4.png" width="300" height="300">
-<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s5.png" width="300" height="300">
+//<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s3.png" width="300" height="300">
+//<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s4.png" width="300" height="300">
+//<img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s5.png" width="300" height="300">
 <img src="https://github.com/ShreyaMPadmashali/3D-city-view/blob/main/output-screenshot/s6.png" width="300" height="300">
 
